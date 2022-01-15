@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @whoadarshkumar
+- 👋 Hi, I’m Adarsh Kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS &JavaScript
+- 🌱 I’m currently learning HTML,CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
