@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adarsh Kumar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS & JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter & Dart
+- 💞️ I’m looking to collaborate on Flutter Apps
+- 📫 How to reach me @whoadarshkumar
 
 <!---
 whoadarshkumar/whoadarshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
