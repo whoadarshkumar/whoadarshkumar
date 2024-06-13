@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adarsh Kumar
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter & Dart
-- 💞️ I’m looking to collaborate on Flutter Apps
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me @whoadarshkumar
 
 <!---
